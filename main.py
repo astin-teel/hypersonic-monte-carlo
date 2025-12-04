@@ -100,4 +100,5 @@ plt.tight_layout()
 # plt.savefig('results/impact_ellipse.png', dpi = 300)
 plt.show()
 
+
 print(f"\nDone! 99% ellipse semi-axes: {width/2:.3f} x {height/2:.3f}")
